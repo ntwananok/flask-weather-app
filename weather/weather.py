@@ -1,8 +1,6 @@
 
 
 def us_epa_index_description(US_EPA_Index):
-  print("We are in the function")
-  print("US_EPA_Index", US_EPA_Index)
 
   if US_EPA_Index == 1:
     EPA_description="Good: Air quality is satisfactory, and air pollution poses little or no risk." 
